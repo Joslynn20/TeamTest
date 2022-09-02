@@ -1,2 +1,9 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 encoding/<project>=EUC-KR
+=======
+encoding//src/test/Test01.java=UTF-8
+encoding//src/test/TestFile.java=UTF-8
+encoding/<project>=UTF-8
+separateDerivedEncodings=true
+>>>>>>> 05019d15b7424679c279bf55b5805f2b5b573d1b

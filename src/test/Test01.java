@@ -2,7 +2,7 @@ package test;
 
 public class Test01 {
 	public static void main(String[] args) {
-		System.out.println("±èº¸°æ 2¹øÂ° Å×½ºÆ® ÆÄÀÏÀÔ´Ï´Ù.");
+		System.out.println("ê¹€ë³´ê²½ 2ë²ˆì§¸ TEST íŒŒì¼ì…ë‹ˆë‹¤.");
 	}
 
 }
