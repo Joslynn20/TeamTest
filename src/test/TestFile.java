@@ -3,7 +3,7 @@ package test;
 public class TestFile {
 	
 	public static void main(String[] args) {
-		System.out.println("±èº¸°æ Å×½ºÆ® ÆÄÀÏÀÔ´Ï´Ù.");
+		System.out.println("ê¹€ë³´ê²½ ì²«ë²ˆì§¸ TEST");
 	}
 
 }
